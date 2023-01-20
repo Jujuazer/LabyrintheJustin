@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UNREAL COURS/LabyrintheJustin/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Mapping/IMC_MappingContextPlayer.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Mapping/IA_Move.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/PC_PlayerControl.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Mapping/IA_Mouse.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/Cube.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Switch.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Mapping/IA_Interact.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Mapping/IMC_InteractMappingContext.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Meshes/Static/Labyrinthe.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/SecretDoor.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/GI_GameInstance.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Door.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_PassageSecret.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Trap.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/HUD/NewWidgetBlueprint.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/HUD/PlayerUI.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/StarterContent/Textures/T_Ground_Grass_D.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_PlayerControl.uasset"
+			]
+		}
+	]
+}

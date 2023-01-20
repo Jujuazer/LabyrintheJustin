@@ -1,0 +1,3 @@
+Les controles :
+ZQSD pour ce déplacer
+Appuyer sur E pour intéragir avec les objets (levier, torche)
