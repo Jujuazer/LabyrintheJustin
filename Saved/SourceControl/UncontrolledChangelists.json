@@ -19,15 +19,16 @@
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Mapping/IMC_InteractMappingContext.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Collision.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Meshes/Static/Labyrinthe.uasset",
-				"E:/UNREAL COURS/LabyrintheJustin/Content/SecretDoor.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/GI_GameInstance.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
-				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Door.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_PassageSecret.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Trap.uasset",
-				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/HUD/NewWidgetBlueprint.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/HUD/PlayerUI.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/StarterContent/Textures/T_Ground_Grass_D.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/SecretDoor.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_Door.uasset",
+				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/HUD/NewWidgetBlueprint.uasset",
 				"E:/UNREAL COURS/LabyrintheJustin/Content/Le_Labyrinthe/Blueprints/BP_PlayerControl.uasset"
 			]
 		}
